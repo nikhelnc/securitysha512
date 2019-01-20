@@ -1,0 +1,6 @@
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\bin\Debug\nikhel.security.sha512.dll
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\bin\Debug\nikhel.security.sha512.pdb
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\obj\Debug\nikhel.security.sha512.csprojResolveAssemblyReference.cache
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\obj\Debug\nikhel.security.sha512.csproj.CoreCompileInputs.cache
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\obj\Debug\nikhel.security.sha512.dll
+c:\users\nicolas\Source\Repos\nikhel.security.sha512\nikhel.security.sha512\obj\Debug\nikhel.security.sha512.pdb
